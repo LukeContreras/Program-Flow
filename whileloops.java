@@ -29,7 +29,7 @@ public class whileloops
             System.out.println("b is " + b + " and less than or equal to 20");
             a = a + 1;
             b = b + 4;
-        }while (a<10 && b<=20)
+        }while (a<10 && b<=20);
     }
 
     public static void main(String[] args)
